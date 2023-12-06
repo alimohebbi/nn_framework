@@ -45,7 +45,9 @@ prediction = new_network.forward(new_data_for_prediction)
 The script uses a simple two-spiral dataset for training, and the final boundary plot should show how well the trained
 model separates the two classes. The vidoe shows how the model improves after epochs.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_izhkazRGqE?si=2HLhlT4WjHJvUdQz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Sample Video](https://img.youtube.com/vi/_izhkazRGqE/0.jpg)](https://www.youtube.com/watch?v=_izhkazRGqE)
+
+
 ## Components
 
 Here's important components of the code:
